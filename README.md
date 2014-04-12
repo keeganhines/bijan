@@ -2,6 +2,6 @@
 
 A simple mod of [2048](http://gabrielecirulli.github.io/2048/)
 
-Play [here] (keeganhines.github.io/bijan)
+Play [here](http://keeganhines.github.io/bijan/)
 
 
